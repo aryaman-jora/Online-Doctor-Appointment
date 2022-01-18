@@ -1,0 +1,5 @@
+Use jdk 8 in order to run japplet
+
+Configure build path and add jar files
+Javax Mail 
+Mysql Java Connector
